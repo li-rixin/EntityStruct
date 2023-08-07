@@ -12,6 +12,7 @@
 2. 在实体类字段增加@FieldMapping注解可以指定字段的行为
 3. 同一个topic指向同一个同一个生成类
 4. 在pom.xml可以统一指定topic的包位置和默认lombok注解
+5. 修改完成执行一些构建即可生成动态的类，或者idea打开自动构建
    
 > 指定默认包语法格式为-Aentitystruct.defaultPackage.{topic}=指定topic所在包
 > 
