@@ -1,19 +1,9 @@
 # 引入依赖
 ```
         <dependency>
-            <groupId>com.squareup</groupId>
-            <artifactId>javapoet</artifactId>
-            <version>1.13.0</version>
-        </dependency>
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <version>1.18.24</version>
-        </dependency>
-        <dependency>
             <groupId>io.github.li-rixin</groupId>
             <artifactId>EntityStruct</artifactId>
-            <version>1.0.0</version>
+            <version>1.1</version>
         </dependency>
 ```
 
