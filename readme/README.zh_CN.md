@@ -1,6 +1,6 @@
+- [简体中文](readme/README.zh_CN.md)
+- [繁體中文](readme/README.zh_TW.md)
 - [ENGLISH](readme/README.en_US.md)
-- [中文](readme/README.zh_CN.md)
-- [國文](readme/README.zh_TW.md)
 # 引入依赖
 ```
         <dependency>
