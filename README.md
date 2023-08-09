@@ -1,4 +1,5 @@
-- 英文[Deutsch](readme/README.en_US.md)
+- [ENGLISH](readme/README.en_US.md)
+- [中文](readme/README.zh_CN.md)
 # 引入依赖
 ```
         <dependency>
